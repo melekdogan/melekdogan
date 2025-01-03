@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Melek Doğan
 - 👀 I’m interested in researching, coding and learning any foreign language
 - 🌱 I’m currently learning .NET Core and related ones
-- 📫 reach me on instagram (@melekdogand) 
+- 📫 reach me on instagram (@melekdoganm) 
 
 <!---
 melekdogan/melekdogan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
